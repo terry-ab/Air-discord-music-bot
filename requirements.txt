@@ -1,0 +1,5 @@
+discord
+asyncio
+youtube_dl
+ffmpeg
+discord.py[voice]
